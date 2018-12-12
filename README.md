@@ -4,7 +4,7 @@
 
 A fully-functional [UVDesk Community Edition][1] project skeleton packaged along with the bare essential utilities that you can use to develop your own custom helpdesk solutions.
 
-UVdesk Opensource is php-based customer support software built using Symfony PHP framework and written in PHP+MYSQL which is highly secured, robust and customizable to be fit as the complete helpdesk solution for any trade.
+UVdesk Opensource is php-based customer support software built using Symfony PHP framework and written in PHP+MYSQL which is highly secured, robust and customizable to be fit as a complete helpdesk solution for any trade.
 
 This open source helpdesk ticket system is an endeavor to bring the best suited dynamic helpdesk solution for all the businesses no matter the industry you're dealing with.
 
